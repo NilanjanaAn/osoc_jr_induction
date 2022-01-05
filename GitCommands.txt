@@ -2,7 +2,7 @@
 ______________________________________
 
  1. git init: Initializes the current directory as a git repository.
- 2. git archive: Creates an archive of files from a names tree.
+ 2. git archive: Creates an archive of files from a named tree.
  3. git clean: Removes untracked files from the working tree.
  4. git fetch: Downloads objects and refs from another repo.
  5. git revert: Reverts some existing commits, i.e. returns them to their previous state.
