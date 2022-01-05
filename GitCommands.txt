@@ -1,0 +1,14 @@
+10 Git Commands and their Descriptions
+______________________________________
+
+ 1. git init: Initializes the current directory as a git repository.
+ 2. git archive: Creates an archive of files from a names tree.
+ 3. git clean: Removes untracked files from the working tree.
+ 4. git fetch: Downloads objects and refs from another repo.
+ 5. git revert: Reverts some existing commits, i.e. returns them to their previous state.
+ 6. git config: Used to set the user's name (user.name) and email (user.email).
+ 7. git remote: Connects a local repo with a remote repo (that is already hosted on GitHub).
+ 8. git reset: Resets staging area to match the most recent commit without modifying the working directory.
+ 9. git stash: Shelves away the changes in a dirty working directory without deleting them.
+10. git maintenance: Runs tasks to optimize the Git repo data.
+
